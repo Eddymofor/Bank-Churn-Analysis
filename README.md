@@ -1,5 +1,5 @@
 # Bank-Churn-Analysis
-This is a PowerBI project for churn analysis of a bank. (People's Finance Bank)
+This is a PowerBI project for churn analysis of a bank.
 
 CSV file was imported and transformed using power query editor. All null values were removed, then the coloumns for customer ID and serial number were removed since they wouldn't be useful in the analysis. The names of coloumns were changed to meaningful names since they would make the charts more self explanatory and future edits more simpler to process. New columns are created to add the values into bins of various interval. These cloumns are of text type. After binning, the numerical base columns were removed.
 
